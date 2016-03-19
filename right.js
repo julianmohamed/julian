@@ -1,3 +1,4 @@
+
 /******************************************
 Auto-readmore link script, version 2.0 (for blogspot)
 
